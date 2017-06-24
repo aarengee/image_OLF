@@ -1,5 +1,7 @@
 # Image processing in C
 
+See qdbmp API calls at http://qdbmp.sourceforge.net/
+
 colorinfrared.c is a C program to colorise the infrared image ```ifwatch.bmp``` using pixels from colored image ```colorwatch.bmp``` taken in the dark and 
 produce a output image  ```imageout.bmp```
 
