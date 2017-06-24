@@ -1,3 +1,4 @@
+/*include in programs"*/
 #include "qdbmp.h"
 #include <stdlib.h>
 #include <string.h>
