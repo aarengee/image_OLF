@@ -8,7 +8,7 @@ $ cd programs
 $ gcc colorinfrared.c -o exec1
 $ ./exec1
 ```
-colorinfrared2.c is a C program to do the above but doesnt desaturate the output image
+colorinfrared2.c is a C program to do the above task but doesnt desaturate the output image as I fill real pixel values and not the mean
 
 ```sh
 $ cd programs
