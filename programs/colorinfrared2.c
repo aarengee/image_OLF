@@ -4,7 +4,7 @@
     of the same object or landscape and creates a new
 	image that has the colored and infrared features of the object.
 
-*************************APPROACH TWO*************************************/
+*************************APPROACH TWO************************************/
 
 #include "../include/qdbmp.h"
 #include "../include/qdbmp.c"
